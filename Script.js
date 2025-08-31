@@ -8,7 +8,7 @@ const newElement = React.createElement(
   React.createElement(
     "div",
     { id: "child" },
-    React.createElement("h1", { id: "child2" }, "vaa la punda ")
+    React.createElement("h1", { id: "chilrd2" }, "vaa la punda ")
   )
 );
 
