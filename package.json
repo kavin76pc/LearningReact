@@ -1,0 +1,22 @@
+{
+  "name": "react-v2",
+  "version": "1.0.0",
+  "description": "kuch nagii",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavin76pc/LearningReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavin76pc/LearningReact/issues"
+  },
+  "homepage": "https://github.com/kavin76pc/LearningReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
